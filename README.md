@@ -80,7 +80,7 @@ cropcast/
 4. Use the widget inputs at the bottom of the notebook to generate real-time predictions
 5. Run `Final values.ipynb` to populate the prediction grid Delta table for the dashboard
 
-> Climate data coverage: Iowa, Illinois, Indiana, Nebraska, and Ohio — 2010–2024 growing seasons.
+> Climate data coverage: Iowa, Illinois, Indiana, Nebraska, and Minnesota — 2010–2024 growing seasons.
 
 ## Data Sources
 
