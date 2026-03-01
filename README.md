@@ -6,7 +6,10 @@ A data-driven platform that helps small-scale farmers understand how weather con
 
 ## Demo
 
-<!-- Add demo screenshots/gifs here -->
+<p align="center">
+  <img src="AnomalyDetection.png" alt="CropCast demo - anomaly detection" width="520" />
+  <img src="YieldPredictionDisplay.png" alt="CropCast demo - dashboard display" width="520" />
+</p>
 
 ## Features
 
